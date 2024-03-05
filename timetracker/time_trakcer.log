@@ -1,0 +1,2 @@
+INFO:root:client, split_dates
+INFO:root:client: ACME; split_dates: ['2023-09-01', '2023-09-10']
